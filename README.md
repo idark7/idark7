@@ -4,7 +4,7 @@
 
 🌐 **Portfolio: [sudipta.uk](https://sudipta.uk)** — my journey, my way of working and my projects, with a guided tour by Blobby.
 
-Sixteen years building software for regulators, clinical research and global finance, and now for the agents that build software too.
+16+ years building software for regulators, clinical research and global finance, and now for the agents that build software too.
 
 - 🏛️ Led ISB Trace, the platform behind DEFRA Digital Waste Tracking (C#/.NET, AWS Lambda, EventBridge, PostgreSQL/JSONB)
 - 🧠 Building local-first AI on Apple Silicon: **Blobby**, a screen buddy that explains what it sees, out loud
